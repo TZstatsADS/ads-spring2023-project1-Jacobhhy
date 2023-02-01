@@ -2,14 +2,14 @@
 ## Spring 2023
 ## Project 1: A "data story" on the history of philosophy
 
-<img src="figs/100126-the-glass.jpeg" width="500">
+<img src="figs/Philosophy.webp" width="500">
 
 ### [Project Description](doc/)
 This is the first and only *individual* (as opposed to *team*) project this semester. 
 
 Term: Spring 2023
 
-+ Projec title: Lorem ipsum dolor sit amet
++ Projec title: The obscure facts behind the history of Philosophy (A guidebook to find the unknown interactions between schools and authors in the history of Philosophy)
 + This project is conducted by [Haoyu He]
 
 + Project summary: History has helped us record the ideological civilization and exploration steps left by mankind in the process of continuous development. Through history, people reflect and practice in different fields to promote the formation and development of society. In the field of philosophy, history records different doctrines advocated by various schools and regions such as Plato, Nietzsche, and Socrates, helping future generations to better learn and link to other fields.
