@@ -12,7 +12,12 @@ Term: Spring 2023
 + Projec title: Lorem ipsum dolor sit amet
 + This project is conducted by [Haoyu He]
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: History has helped us record the ideological civilization and exploration steps left by mankind in the process of continuous development. Through history, people reflect and practice in different fields to promote the formation and development of society. In the field of philosophy, history records different doctrines advocated by various schools and regions such as Plato, Nietzsche, and Socrates, helping future generations to better learn and link to other fields.
+However, in today's rapidly developed digital age, we are more eager to use numbers instead of long and complex words, to obtain maximum results in a short time. So, in this analysis, I gonna using power of data to show some unknown relationships between and within authors and schools.
++ Three questions will be answered in this report are:
+1. How are authors and schools different from others in terms of the length of sentences they produced?
+2. Are authors from distinct schools speak in a similar tone or not? If not, what is the difference?
+3. Can we guess the school name backhead by only exposing the sentences themselves?
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
